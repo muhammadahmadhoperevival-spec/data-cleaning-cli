@@ -2,7 +2,7 @@
 
 A small Python tool that loads a dataset (CSV, Excel or JSON), finds missing values, fills them in, and saves a clean CSV. It comes with a Streamlit web demo and a Jupyter notebook that explores the Titanic dataset before and after cleaning.
 
-**Live demo:** https://YOUR-APP-NAME.streamlit.app  <!-- replace after deploying -->
+**Live demo:** https://data-cleaning-cli-aaucpxfm2pajvmdtyze77j.streamlit.app/  <!-- replace after deploying -->
 
 ## What the tool does
 
